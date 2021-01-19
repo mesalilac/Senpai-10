@@ -5,7 +5,6 @@ Hi there, I'm abdalrzag 👋
 Discord <br> `!シ Senpai#2970`
 
 <br>
----
 ![github stats](https://github-readme-stats.vercel.app/api?username=Senpai-10&count_private=true&show_icons=true&theme=dracula&hide=stars)
 ---
 
