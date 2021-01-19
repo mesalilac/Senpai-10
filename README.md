@@ -4,5 +4,8 @@
 
 Languages and Tools:<br><br>
 
-<img src="./images/javascript.svg" width="30" height="30" />
-<img src="./images/python-5.svg" width="30" height="30" />
+
+<p float="left">
+  <img src="./images/javascript.svg" width="30" height="30" />
+  <img src="./images/python-5.svg" width="30" height="30" />
+</p>
