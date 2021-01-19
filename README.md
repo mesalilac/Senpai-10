@@ -11,7 +11,6 @@ Hi there, I'm abdalrzag 👋
 ---
 
 
-
 Languages and Tools:<br>
 
 
