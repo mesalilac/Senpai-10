@@ -2,6 +2,6 @@
 ---
 <br>
 Languages and Tools:<br><br>
-<img style="display: inline-block;" width=30 height=30 src="./images/javascript.svg"></img>
-<img width=30 height=30 src="./images/python-5.svg"></img>
+<img display="inline-block" width=30 height=30 src="./images/javascript.svg"></img>
+<img  width=30 height=30 src="./images/python-5.svg"></img>
 
