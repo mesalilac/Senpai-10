@@ -2,7 +2,7 @@
 ---
 <br>
 
-Languages and Tools:<br><br>
+Languages and Tools:<br>
 
 
 <p float="left">
