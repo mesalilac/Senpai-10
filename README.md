@@ -5,7 +5,7 @@
 Languages and Tools:<br><br>
 
 
-<p float="left">
+<p float="left" padding="22">
   <img src="./images/javascript.svg" width="30" height="30" />
   <img src="./images/python-5.svg" width="30" height="30" />
 </p>
