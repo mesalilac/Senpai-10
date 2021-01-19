@@ -3,5 +3,6 @@
 <br>
 
 Languages and Tools:<br><br>
-![img](./images/javascript.svg = 30x30)
-![img](./images/python-5.svg = 30x30)
+
+<img src="./images/javascript.svg" width="30" height="30" />
+<img src="./images/python-5.svg" width="30" height="30" />
