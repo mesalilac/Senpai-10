@@ -8,4 +8,5 @@ Languages and Tools:<br>
 <p float="left">
   <img src="./images/javascript.svg" width="30" height="30" />
   <img src="./images/python-5.svg" width="30" height="30" />
+  <img src="./images/nodejs.png" width="30" height="30" />
 </p>
