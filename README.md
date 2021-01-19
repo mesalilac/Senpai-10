@@ -1,8 +1,8 @@
 Hi there, I'm abdalrzag 👋
 - 🌱 I’m currently learning Typescript 
 
-✨ Contact
-Discord <br> `!シ Senpai#2970`
+✨ Contact <br>
+- Discord  `!シ Senpai#2970`
 
 <br>
 
