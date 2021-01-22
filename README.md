@@ -23,6 +23,7 @@ Languages and Tools:<br>
   <img src="./images/git.png" width="30" height="30" />
 </p>
 
+<br>
 
 <p align="center">
   <img  src="https://64.media.tumblr.com/5638646701ce4504297227092d93c5ba/tumblr_o5r4g003gu1r0oq85o2_540.gifv"></img>
