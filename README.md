@@ -4,6 +4,8 @@ Hi there, I'm abdalrzag 👋
 ✨ Contact <br>
 - Discord  `!シ Senpai#2970`
 
+![](https://komarev.com/ghpvc/?username=Senpai-10)
+
 <br>
 
 
