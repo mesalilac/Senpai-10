@@ -29,5 +29,5 @@ Languages and Tools:<br>
 <br>
 
 <p align="center">
-  <img  src="https://media1.tenor.com/images/c2c0a2dd163e2c9aad912c6fd6d441a0/tenor.gif?itemid=16899694"></img>
+  <img  src="https://i.imgur.com/0ebZ4T3.gif"></img>
 </p>
