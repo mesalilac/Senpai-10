@@ -18,7 +18,7 @@ Languages and Tools:<br>
 
 
 <p float="left">
-  <img src="./images/javascript.svg" width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="30" height="30" />
   <img src="./images/python-5.svg" width="30" height="30" />
   <img src="./images/nodejs.png" width="30" height="30" />
   <img src="./images/react-1-282599.png" width="30" height="30" />
