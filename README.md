@@ -1,5 +1,5 @@
 Hi there, I'm abdalrzag 👋
-- 🌱 I’m currently learning Typescript 
+
 
 ✨ Contact <br>
 - Discord  `!シ Senpai#2970`
