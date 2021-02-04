@@ -30,5 +30,5 @@ Languages and Tools:<br>
 <br>
 
 <p align="center">
-  <img src="https://pa1.narvii.com/6554/0eeaabb4792192661fee2fa5ba4399a4427f8724_hq.gif"></img>
+  <img src="https://i.pinimg.com/originals/89/3e/90/893e90cd4bc934c0c248b586a246aaa6.gif"></img>
 </p>
