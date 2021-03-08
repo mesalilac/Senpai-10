@@ -18,7 +18,7 @@ Languages and Tools:<br>
 
 
 <p float="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg"                      width="30" height="30" />
+  <img src="https://i.postimg.cc/3rptZYPw/Java-Script-logo.png"                        width="30" height="30" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  width="30" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg"                        width="30" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"                     width="30" height="30" />
