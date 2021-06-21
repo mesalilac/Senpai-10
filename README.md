@@ -30,5 +30,5 @@ Languages and Tools:<br>
 <br>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/89/3e/90/893e90cd4bc934c0c248b586a246aaa6.gif"></img>
+  <img src="https://i0.wp.com/38.media.tumblr.com/86ea2b6213cd942836eefb5f763357bc/tumblr_nbjshc0BmR1slv5gyo1_500.gif"></img>
 </p>
