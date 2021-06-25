@@ -4,7 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Senpai-10&style=flat-square)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Senpai-10&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide=stars)
 
 <br>
 
@@ -24,6 +23,9 @@
 </div>
 
 <br>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Senpai-10&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide=stars)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
