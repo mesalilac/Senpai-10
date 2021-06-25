@@ -1,7 +1,6 @@
-Hi there, I'm abdalrzag 👋
+## Hi there, I'm abdalrzag 👋
 
-✨ Contact <br>
-- Discord  `!シ Senpai#2970`
+<img align="right" width="350px" src="https://i0.wp.com/38.media.tumblr.com/86ea2b6213cd942836eefb5f763357bc/tumblr_nbjshc0BmR1slv5gyo1_500.gif"></img>
 
 ![](https://komarev.com/ghpvc/?username=Senpai-10&style=flat-square)
 
@@ -26,6 +25,11 @@ Hi there, I'm abdalrzag 👋
 
 <br>
 
-<div align="center">
-  <img src="https://i0.wp.com/38.media.tumblr.com/86ea2b6213cd942836eefb5f763357bc/tumblr_nbjshc0BmR1slv5gyo1_500.gif"></img>
-</div>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+
+  <a href="https://discord.com/users/422611986506055681/"><img src="https://img.shields.io/badge/-!シ Senpai-1877F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+  
+  
+</p>
