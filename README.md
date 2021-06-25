@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Senpai-10&style=flat-square)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Senpai-10&count_private=true&show_icons=true&theme=dracula&hide=stars)
+![github stats](https://github-readme-stats.vercel.app/api?username=Senpai-10&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide=stars)
 
 <br>
 
@@ -30,6 +30,7 @@
 <p align="left">
 
   <a href="https://discord.com/users/422611986506055681/"><img src="https://img.shields.io/badge/-!シ Senpai-1877F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+  <a href="https://twitter.com/abdulrzag1234/"><img src="https://img.shields.io/badge/-@abdulrzag1234-1877F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   
   
 </p>
