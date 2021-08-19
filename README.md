@@ -29,6 +29,6 @@
 <p align="left">
 
   <a href="https://discord.com/users/422611986506055681/"><img src="https://img.shields.io/badge/-!シ Senpai-1877F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-  <a href="https://twitter.com/abdulrzag1234/"><img src="https://img.shields.io/badge/-@senpai400-1877F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/senpai400/"><img src="https://img.shields.io/badge/-@senpai400-1877F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   
 </p>
