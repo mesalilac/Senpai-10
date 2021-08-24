@@ -1,6 +1,6 @@
 ## Hi there, I'm abdalrzag 👋
 
-<img align="right" width="350px" src="https://cdn.myanimelist.net/s/common/uploaded_files/1472611358-b363f35acd6888d01d3b900f760cbd5d.gif"></img>
+<img align="right" width="350px" src="https://64.media.tumblr.com/42286385622a0422f83c4b8243abf4e6/tumblr_oasdfdlSwO1sznfdio1_500.gifv"></img>
 
 ![](https://komarev.com/ghpvc/?username=Senpai-10&style=flat-square)
 
