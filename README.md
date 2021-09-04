@@ -7,10 +7,6 @@
 
 <br>
 
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Senpai-10&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)
-
 <div float="left">
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
@@ -25,6 +21,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
 </div>
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Senpai-10&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
