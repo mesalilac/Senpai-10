@@ -12,6 +12,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=TypeScript)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)&nbsp;
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=React)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)&nbsp;
