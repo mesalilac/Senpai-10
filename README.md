@@ -2,7 +2,7 @@
 
 <img align="right" width="350px" src="https://64.media.tumblr.com/42286385622a0422f83c4b8243abf4e6/tumblr_oasdfdlSwO1sznfdio1_500.gifv"></img>
 
-![](https://komarev.com/ghpvc/?username=Senpai-10&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Senpai-10&style=for-the-badge&color=blueviolet)
 
 
 <br>
@@ -23,7 +23,6 @@
   
 </div>
 
-<hr>
 
 <!-- GITHUB STATS -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=senpai-10&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=senpai-10&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
