@@ -23,6 +23,8 @@
   
 </div>
 
+<hr>
+
 <!-- GITHUB STATS -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=senpai-10&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=senpai-10&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | ------------- | ------------- |
