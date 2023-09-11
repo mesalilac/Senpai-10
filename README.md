@@ -1,7 +1,5 @@
 ## Hi there, I'm abdalrzag 👋
 
-<img align="right" width="350px" src="https://64.media.tumblr.com/42286385622a0422f83c4b8243abf4e6/tumblr_oasdfdlSwO1sznfdio1_500.gifv"></img>
-
 ![](https://komarev.com/ghpvc/?username=Senpai-10&style=for-the-badge&color=blueviolet)
 
 
